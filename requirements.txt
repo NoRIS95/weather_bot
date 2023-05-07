@@ -1,5 +1,5 @@
-python-dotenv=1.0.0
-pygismeteo=5.2.0
-pygismeteo-base=4.4.1
-simplejsondb=0.4.0
-pyTelegramBotAPI=4.11.0
+python-dotenv==1.0.0
+pygismeteo==5.2.0
+pygismeteo-base==4.4.1
+simplejsondb==0.4.0
+pyTelegramBotAPI==4.11.0
