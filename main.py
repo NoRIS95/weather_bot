@@ -18,6 +18,7 @@ bot = telebot.TeleBot(TG_TOKEN)
 USER_CONDITIONS = Database('user_states.json', default=dict())
 gm = pygismeteo.Gismeteo()
 
+
 class StatusDialog(enum.Enum):
     STATUS_OF_GREEЕTINGS = 1
     STATUS_OF_ASK_CITY = 2
