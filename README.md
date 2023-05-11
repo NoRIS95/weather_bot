@@ -13,14 +13,18 @@ _3._
 ```BOT_TOKEN=<вписать сюда токен тг-бота из п.1>```
  
 _4._
+ 
 ```python3 -m venv dev_venv```
  
 _5._
+ 
 ```source ./bin/dev_venv/activate```
  
 _6._
+ 
 ```pip install -r requirements.txt```
  
 ### Запуск телеграм-бота ###
 _1._
+ 
 ```python main.py```
