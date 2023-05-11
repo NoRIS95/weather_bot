@@ -9,7 +9,7 @@ BOT_TOKEN=<вписать сюда токен тг-бота из п.1>
 python3 -m venv dev_venv
 source ./bin/dev_venv/activate
 pip install -r requirements.txt
-   ```
+```
  
 ### Запуск телеграм-бота ###
  
