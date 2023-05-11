@@ -7,6 +7,7 @@ _2._
 ```git clone https://github.com/NoRIS95/weather_bot.git```
  
 _3._
+ 
 ```cp .env .env.template```
  
 ```BOT_TOKEN=<вписать сюда токен тг-бота из п.1>```
