@@ -14,6 +14,7 @@ import enum
 load_dotenv()
 TG_TOKEN = os.getenv('BOT_TOKEN')
 
+
 bot = telebot.TeleBot(TG_TOKEN)
 USER_CONDITIONS = Database('user_states.json', default=dict())
 gm = pygismeteo.Gismeteo()
