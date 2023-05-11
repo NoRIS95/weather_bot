@@ -5,7 +5,7 @@ _Зарегистрировать бота с помощью телеграм-б
 ```
 git clone https://github.com/NoRIS95/weather_bot.git
 cp .env.template .env
-BOT_TOKEN=<вписать сюда токен тг-бота из п.1>
+BOT_TOKEN=<вписать сюда токен тг-бота из п.1> # в .env файле
 python3 -m venv dev_venv
 source ./bin/dev_venv/activate
 pip install -r requirements.txt
